@@ -14,11 +14,5 @@
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
         "postcss": "^8.1.14"
-    },
-    "dependencies": {
-        "@fullcalendar/core": "^5.11.3",
-        "@fullcalendar/daygrid": "^5.11.3",
-        "@fullcalendar/list": "^5.11.3",
-        "@fullcalendar/timegrid": "^5.11.3"
     }
 }
