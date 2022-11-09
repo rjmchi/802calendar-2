@@ -7,9 +7,9 @@
     <title>802 Calendar</title>
 </head>
 <body>
-    <h1>Welcome to the 802 calendar</h1>
+    <h1>Welcome to the 802 calendar (PHP v{{ PHP_VERSION }})</h1>
     <div id="app">
-
+        <calendar-component> </calendar-component>
     </div>
     <script src="{{mix('js/app.js')}}"></script>
 </body>
